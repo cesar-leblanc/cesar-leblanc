@@ -1,4 +1,4 @@
-### Coucou 👋
+# Coucou 👋
 
 ## About me
 
