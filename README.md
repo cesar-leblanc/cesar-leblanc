@@ -2,7 +2,7 @@
 
 ## About me
 
-Hey, my name is César Leblanc, I am 25 years old and I am a third year PhD student at [Inria](https://inria.fr) and [University of Montpellier](https://www.umontpellier.fr/) working on artificial intelligence and biodiversity within the [Pl@ntNet](https://plantnet.org/) team. I am also a promoter of reproducible research and open science.
+Hey, my name is César Leblanc, I am 26 years old and I am a third year PhD student at [Inria](https://inria.fr) and [University of Montpellier](https://www.umontpellier.fr/) working on artificial intelligence and biodiversity within the [Pl@ntNet](https://plantnet.org/) team. I am also a promoter of reproducible research and open science.
 
 - 🔭 I’m currently working on [GeoPl@ntNet](https://maps.plantnet.org/viewer/), a tool aiming at mapping all European plant species (over 10,000 organisms), habitat types (over 250 ecosystems), and biodiversity indicators (over 10 variables) at very-high resolution
 - 🌱 I’m currently learning how deep learning can help us advance our comprehension in biodiversity modeling, community ecology, and conservation biology in order to guide researchers and practitioners
