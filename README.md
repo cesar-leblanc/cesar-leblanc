@@ -9,7 +9,7 @@ Hey, my name is César Leblanc, I am 26 years old and I am a third year PhD stud
 - 👯 I’m looking to connect with other young researchers (e.g., MSc interns, PhD students, postdoctoral fellows) from my field to discuss about scientific ideas and collaboration opportunities, as well as to engage in conversations about other non work-related topics
 - 🤔 I’m looking for help with finding a postdoctoral position abroad (e.g., Italy, Spain, Germany) starting from 11/2025 where I could use my AI skills to investigate biodiversity (e.g., the impacts of global change, the potential distribution of species/habitats, how and why plants coexist together)
 - 💬 Ask me about anything, among others **Artificial Intelligence** (*Machine Learning*, *Deep Learning*, *Computer vision*, *Natural Language Processing*, *Transformer*), **Programming languages** (*Python*, *R*, *Java*), **Biodiversity and conservation** (*Community Ecology*, *Macroecology and Biogeography*, *Species Interactions*, *Habitat Mapping*, *Citizen Science and Remote Sensing*), **Data** (*Manipulation*, *Analysis*, *Visualization*), and **Mathematics** (*Algebra*, *Calculus*, *Probability and Statistics*, *Discrete Mathematics*, *Optimization*) 
-- 📫 How to reach me: cesar.leblanc@inria.fr
+- 📫 How to reach me: phd.cesar.leblanc@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: if you're trying to map the distribution of vascular plant species and your model reaches very high numbers around my house, don't worry, it's not a bug
 
