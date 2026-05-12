@@ -33,7 +33,7 @@ If you're interested in my publications, talks, teachings, CV, and so much more,
 
 ### Social media
 
-[![Email](https://img.shields.io/badge/Email-cesar.leblanc@inria.fr-blue)](mailto:cesar.leblanc@inria.fr)
+[![Email](https://img.shields.io/badge/Email-phd.cesar.leblanc@gmail.com-blue)](mailto:phd.cesar.leblanc@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-cesar_leblanc-green)](https://medium.com/@cesar.leblanc)
 [![X](https://img.shields.io/badge/X-leblanc_ce27830-red)](https://x.com/leblanc_ce27830)
 [![Wikipedia](https://img.shields.io/badge/Wikipedia-CesarLeblanc-cyan)](https://en.wikipedia.org/wiki/Special:Contributions/CesarLeblanc)
