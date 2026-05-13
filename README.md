@@ -20,7 +20,7 @@ If you're interested in my publications, talks, teachings, CV, and so much more,
 ### Academic websites
 
 [![arXiv](https://img.shields.io/badge/arXiv-César_Leblanc-blue)](https://arxiv.org/search/?query=C%C3%A9sar+Leblanc&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-César_Leblanc-green)](https://scholar.google.com/citations?user=rJFLqvQAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-César_Leblanc-green)](https://scholar.google.com/citations?user=Wq1xNn0AAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-César_Leblanc-red)](https://orcid.org/0000-0002-5682-8179)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-César_Leblanc-cyan)](https://www.researchgate.net/profile/Cesar-Leblanc)
 
