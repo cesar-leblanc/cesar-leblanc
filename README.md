@@ -1,6 +1,6 @@
 # Coucou 👋
 
-## About me
+## About me 👀
 
 Hey, my name is César Leblanc, I am 26 years old and I am a third year PhD student at [Inria](https://inria.fr) and [University of Montpellier](https://www.umontpellier.fr/) working on artificial intelligence and biodiversity within the [Pl@ntNet](https://plantnet.org/) team. I am also a promoter of reproducible research and open science.
 
@@ -15,7 +15,7 @@ Hey, my name is César Leblanc, I am 26 years old and I am a third year PhD stud
 
 If you're interested in my publications, talks, teachings, CV, and so much more, you can access my website [here](https://cesar-leblanc.github.io/).
 
-## Links
+## Links 🔗
 
 ### Academic websites
 
@@ -38,7 +38,7 @@ If you're interested in my publications, talks, teachings, CV, and so much more,
 [![X](https://img.shields.io/badge/X-leblanc_ce27830-red)](https://x.com/leblanc_ce27830)
 [![Wikipedia](https://img.shields.io/badge/Wikipedia-CesarLeblanc-cyan)](https://en.wikipedia.org/wiki/Special:Contributions/CesarLeblanc)
 
-## My Open Source projects: 
+## My Open Source projects: 🔍
 
 - [GeoPl@ntNet](https://maps.plantnet.org/viewer/) is a web application in the form of EU-wide interactive maps making Essential Biodiversity Variables easily accessible and understandable for everyone
 - [Pl@ntBERT](https://github.com/cesar-leblanc/plantbert) is a tool leveraging large language models to learn the "syntax" of species assemblages
@@ -46,7 +46,7 @@ If you're interested in my publications, talks, teachings, CV, and so much more,
 - [malpolon](https://github.com/plantnet/malpolon) is a deep learning framework to help you build your species distribution models
 - [GeoLifeCLEF](https://github.com/plantnet/GeoLifeCLEF) is a toolkit (e.g., examples, dataloaders) for the GeoLifeCLEF challenge  
 
-## GitHub Stats
+## GitHub Stats 📈
 
 <a href="https://github.com/cesar-leblanc">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=cesar-leblanc&show_icons=true" />
@@ -62,6 +62,6 @@ If you're interested in my publications, talks, teachings, CV, and so much more,
 [![Gists Badge](https://badges.pufler.dev/gists/cesar-leblanc?style=flate&color=red)](https://github.com/cesar-leblanc)
 [![Commits Badge](https://badges.pufler.dev/commits/all/cesar-leblanc?style=flat&color=cyan)](https://github.com/cesar-leblanc)
 
-## What's playing
+## What's playing 🎶
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xtvbnhpupe6lsk6j55bd2wcu7q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xtvbnhpupe6lsk6j55bd2wcu7q&redirect=true)
