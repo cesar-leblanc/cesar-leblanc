@@ -38,7 +38,7 @@ If you're interested in my publications, talks, teachings, CV, and so much more,
 [![X](https://img.shields.io/badge/X-leblanc_ce27830-red)](https://x.com/leblanc_ce27830)
 [![Wikipedia](https://img.shields.io/badge/Wikipedia-CesarLeblanc-cyan)](https://en.wikipedia.org/wiki/Special:Contributions/CesarLeblanc)
 
-## My Open Source projects: 🔍
+## My Open Source projects 🔍
 
 - [GeoPl@ntNet](https://maps.plantnet.org/viewer/) is a web application in the form of EU-wide interactive maps making Essential Biodiversity Variables easily accessible and understandable for everyone
 - [Pl@ntBERT](https://github.com/cesar-leblanc/plantbert) is a tool leveraging large language models to learn the "syntax" of species assemblages
