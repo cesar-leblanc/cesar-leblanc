@@ -24,7 +24,7 @@ If you're interested in my publications, talks, teachings, CV, and so much more,
 [![ORCID](https://img.shields.io/badge/ORCID-César_Leblanc-red)](https://orcid.org/0000-0002-5682-8179)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-César_Leblanc-cyan)](https://www.researchgate.net/profile/Cesar-Leblanc)
 
-### Repositories and software development 
+### Developer platforms 
 
 [![GitHub](https://img.shields.io/badge/GitHub-cesar_leblanc-blue)](https://github.com/cesar-leblanc/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-CesarLeblanc-green)](https://huggingface.co/CesarLeblanc)
