@@ -17,21 +17,21 @@ If you're interested in my publications, talks, teachings, CV, and so much more,
 
 ## Links 🔗
 
-### Academic websites
+### My academic websites
 
 [![arXiv](https://img.shields.io/badge/arXiv-César_Leblanc-blue)](https://arxiv.org/search/?query=C%C3%A9sar+Leblanc&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-César_Leblanc-green)](https://scholar.google.com/citations?user=Wq1xNn0AAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-César_Leblanc-red)](https://orcid.org/0000-0002-5682-8179)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-César_Leblanc-cyan)](https://www.researchgate.net/profile/Cesar-Leblanc)
 
-### Developer platforms 
+### My developer platforms 
 
 [![GitHub](https://img.shields.io/badge/GitHub-cesar_leblanc-blue)](https://github.com/cesar-leblanc/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-CesarLeblanc-green)](https://huggingface.co/CesarLeblanc)
 [![Kaggle](https://img.shields.io/badge/Kaggle-leblanccesar-red)](https://www.kaggle.com/leblanccesar)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-césar-cyan)](https://stackoverflow.com/users/19683739/c%c3%a9sar)
 
-### Social media
+### My social media
 
 [![Email](https://img.shields.io/badge/Email-phd.cesar.leblanc@gmail.com-blue)](mailto:phd.cesar.leblanc@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-cesar_leblanc-green)](https://medium.com/@cesar.leblanc)
