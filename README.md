@@ -43,7 +43,7 @@ If you're interested in my publications, talks, teachings, CV, and so much more,
 
 ## My Open Source projects 🔍
 
-- [GeoPl@ntNet](https://maps.plantnet.org/viewer/) is a web application in the form of EU-wide interactive maps making Essential Biodiversity Variables easily accessible and understandable for everyone
+- [GeoPl@ntNet](https://geo.plantnet.org/) is a web application in the form of EU-wide interactive maps making Essential Biodiversity Variables easily accessible and understandable for everyone
 - [Pl@ntBERT](https://github.com/cesar-leblanc/plantbert) is a tool leveraging large language models to learn the "syntax" of species assemblages
 - [hdm-framework](https://github.com/cesar-leblanc/hdm-framework) is a classification framework to enhance your habitat distribution models
 - [malpolon](https://github.com/plantnet/malpolon) is a deep learning framework to help you build your species distribution models
