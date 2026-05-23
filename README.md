@@ -49,7 +49,7 @@ If you're interested in my publications, talks, teachings, CV, and so much more,
 - [malpolon](https://github.com/plantnet/malpolon) is a deep learning framework to help you build your species distribution models
 - [GeoLifeCLEF](https://github.com/plantnet/GeoLifeCLEF) is a toolkit (e.g., examples, dataloaders) for the GeoLifeCLEF challenge  
 
-## GitHub Stats 📈
+## Statistics 📈
 
 <a href="https://github.com/cesar-leblanc">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=cesar-leblanc&show_icons=true" />
