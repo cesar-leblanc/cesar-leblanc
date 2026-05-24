@@ -65,6 +65,6 @@ If you're interested in my publications, talks, teachings, CV, and so much more,
 [![Gists Badge](https://badges.pufler.dev/gists/cesar-leblanc?style=flate&color=red)](https://github.com/cesar-leblanc)
 [![Commits Badge](https://badges.pufler.dev/commits/all/cesar-leblanc?style=flat&color=cyan)](https://github.com/cesar-leblanc)
 
-## What's playing 🎶
+## Music 🎶
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xtvbnhpupe6lsk6j55bd2wcu7q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xtvbnhpupe6lsk6j55bd2wcu7q&redirect=true)
