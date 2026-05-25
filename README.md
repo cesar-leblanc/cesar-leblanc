@@ -1,6 +1,6 @@
 # Coucou 👋
 
-## About me 👀
+## Myself 👀
 
 Hey, my name is César Leblanc, I am 26 years old and I am a third year PhD student at [Inria](https://inria.fr) and [University of Montpellier](https://www.umontpellier.fr/) working on artificial intelligence and biodiversity within the [Pl@ntNet](https://plantnet.org/) team. I am also a promoter of reproducible research and open science.
 
