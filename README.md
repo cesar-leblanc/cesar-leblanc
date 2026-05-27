@@ -62,7 +62,7 @@ If you're interested in my publications, talks, teachings, CV, and so much more,
 
 [![Years Badge](https://badges.pufler.dev/years/cesar-leblanc?style=flat&color=blue)](https://github.com/cesar-leblanc)
 [![Repos Badge](https://badges.pufler.dev/repos/cesar-leblanc?style=flat&color=green)](https://github.com/cesar-leblanc)
-[![Gists Badge](https://badges.pufler.dev/gists/cesar-leblanc?style=flate&color=red)](https://github.com/cesar-leblanc)
+[![Gists Badge](https://badges.pufler.dev/gists/cesar-leblanc?style=flat&color=red)](https://github.com/cesar-leblanc)
 [![Commits Badge](https://badges.pufler.dev/commits/all/cesar-leblanc?style=flat&color=cyan)](https://github.com/cesar-leblanc)
 
 ## Music 🎶
