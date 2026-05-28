@@ -12,6 +12,7 @@ Hey, my name is César Leblanc, I am 27 years old and I am a third year PhD stud
 - 📫 How to reach me: phd.cesar.leblanc@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: if you're trying to map the distribution of vascular plant species and your model reaches very high numbers around my house, don't worry, it's not a bug
+- ❤️ Sponsor: are you considering supporting my projects by donating to me? Please do not! Palestine is currently suffering one of the most devastating genocides, and your help will be immensely valuable for the people who are affected by this tragedy. Please visit [this link](https://donate.unrwa.org) and make a small donation to help the people in need. It goes a long way.
 
 If you're interested in my publications, talks, teachings, CV, and so much more, you can access my website [here](https://cesar-leblanc.github.io/).
 
