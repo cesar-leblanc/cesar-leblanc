@@ -54,10 +54,10 @@ If you're interested in my publications, talks, teachings, CV, and so much more,
 ## Statistics 📈
 
 <a href="https://github.com/cesar-leblanc">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=cesar-leblanc&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cesar-leblanc&show_icons=true" />
 </a>
 <a href="https://github.com/cesar-leblanc">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-leblanc&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-leblanc&card_width=320" />
 </a>
 
 <br>
